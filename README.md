@@ -1,4 +1,4 @@
-# # Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas comuns
+# Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas comuns
 
 <div align = 'center'>
  <img src = 'https://airbnblover.com/wp-content/uploads/2017/02/airbnb-refugees-1.png' width = '45%'/>
@@ -42,14 +42,14 @@ As bases de dados foram retiradas do site kaggle: [https://www.kaggle.com/allanb
 ### Mapa de calor com os preços x localização
 
 <div align = 'center'>
- <img src = 'https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2104335-74fd-4260-965b-c5ddf77f5046/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220925T151140Z&X-Amz-Expires=86400&X-Amz-Signature=4f076bb35333384305ad596ee3e4f7f319e26992bba4b9c94e9f63202f36e9e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject' width = '50%' />
+ <img src = 'https://user-images.githubusercontent.com/114163919/196525598-4f65cc54-92c0-4e78-bd4b-94281dc728b2.png' width = '50%' />
 </div>
 
 
 ### Resultado do Deploy / Modelo Funcionando
 
 <div align = 'center'>
- <img src = 'https://s3.us-west-2.amazonaws.com/secure.notion-static.com/924fbb79-10ba-4b47-af64-11e705ded54a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220925T151318Z&X-Amz-Expires=86400&X-Amz-Signature=861095688eee6292d241d9d6cb42918518f12682ad3ee60657fb97941031caa2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject' width = '50%' />
+ <img src = 'https://user-images.githubusercontent.com/114163919/196525692-46fe6809-6b31-4e35-840e-1a54d3658585.png' width = '50%' />
 </div>
 
 Obs: não foi possível colocar no github a pasta com o dataset e nem o modelo salvo no joblib devido ao tamanho dos arquivos.
